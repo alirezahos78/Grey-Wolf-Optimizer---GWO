@@ -14,7 +14,7 @@ Meta-heuristic search is a dynamic balance between exploration and exploitation.
 
 ## 📁 Repository Structure
 * `core/`: Contains the Jupyter Notebook (`Grey wolf.ipynb`) with full implementations, detailed iteration traces, and convergence analysis.
-* `docs/`: Includes the comprehensive project presentation (`Grey Wolf Presentation.pdf`) detailing the theoretical foundations, heuristics vs. approximations, and versatile applications of GWO.
+
 
 ## 📊 Benchmarking & Results
 The algorithms are evaluated on the complex, non-linear **Rastrigin Function**. The code generates detailed execution traces for wolf position updates and plots a log-scale convergence comparison showing how each variant optimizes the fitness score over iterations.
