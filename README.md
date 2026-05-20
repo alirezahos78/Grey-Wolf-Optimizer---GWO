@@ -2,7 +2,6 @@
 
 This repository contains the implementation and presentation materials for the **Grey Wolf Optimizer (GWO)**, including its standard version and two advanced variants: **Variable Weight GWO (VW-GWO)** and **Improved Alpha-Guided GWO (IAgGWO)**. 
 
-This project was developed as part of the *Advanced Algorithms* course under the supervision of **Dr. F. Z. Saberifar** at **Tarbiat Modares University**.
 
 ## 📌 Project Overview
 Meta-heuristic search is a dynamic balance between exploration and exploitation. The Grey Wolf Optimizer mimics the leadership hierarchy and hunting mechanism of grey wolves in nature. This repository explores the mathematical foundations of GWO and benchmarks its performance using the **Rastrigin Function** (10 Dimensions).
